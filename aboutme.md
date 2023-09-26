@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Kaden Franklin
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Kaden Franklin. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+- I am a Student at Brigham Young University
+- I graduate in April 2024
+- I am studying Statistics: Data Science
+- 
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I like learning about Data Science and sharing with others!
