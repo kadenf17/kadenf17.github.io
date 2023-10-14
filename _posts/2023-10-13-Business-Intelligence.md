@@ -8,8 +8,6 @@ comments: true
 ---
 <img src="https://github.com/kadenf17/kadenf17.github.io/blob/master/assets/img/BI%20Title%20Pic.jpg" alt="Title_Picture" class="mx-auto d-block">
 
-![Title_Pic](https://github.com/kadenf17/kadenf17.github.io/blob/master/assets/img/BI%20Title%20Pic.jpg){: .mx-auto.d-block :}
-
 In a world overflowing with data, the ability to make sense of it is nothing short of magic. Business intelligence (BI) is quickly becoming a buzzword, but what exactly is business intelligence, and what does it have to do with Data Science? In this article, we will explore the fundamentals of BI, why it’s important, and what tools are available in the world of business intelligence.
 Data Scientists and BI
 In short, Data Scientists extract meaningful insights and knowledge from large and complex datasets. Data Scientists use robust skills to help them solve difficult problems and harness the power of data. These skills range from statistical analysis to data mining to machine learning.
