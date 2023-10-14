@@ -5,7 +5,7 @@ subtitle: A business-oriented facet of data science.
 gh-repo: kadenf17/kadenf17.github.io
 tags: [Business Intelligence, Data Science]
 comments: true
-cover-img: "https://github.com/kadenf17/kadenf17.github.io/blob/master/assets/img/BI%20Title%20Pic.jpg"
+cover-img: "https://github.com/kadenf17/kadenf17.github.io/blob/4c2a4789d75ca149c4d47ccd315608abe43f3317/assets/img/BI%20Title%20Pic.jpg"
 ---
 
 In a world overflowing with data, the ability to make sense of it is nothing short of magic. Business intelligence (BI) is quickly becoming a buzzword, but what exactly is business intelligence, and what does it have to do with Data Science? In this article, we will explore the fundamentals of BI, why it’s important, and what tools are available in the world of business intelligence.
