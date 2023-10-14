@@ -5,7 +5,7 @@ subtitle: A business-oriented facet of data science.
 gh-repo: kadenf17/kadenf17.github.io
 tags: [Business Intelligence, Data Science]
 comments: true
-cover-img: "assets/img/BI Title Pic.jpg"
+cover-img: "assets/img/Blog BI Post PIc.jpg"
 ---
 
 In a world overflowing with data, the ability to make sense of it is nothing short of magic. Business intelligence (BI) is quickly becoming a buzzword, but what exactly is business intelligence, and what does it have to do with Data Science? In this article, we will explore the fundamentals of BI, why it’s important, and what tools are available in the world of business intelligence.
@@ -16,7 +16,7 @@ In short, Data Scientists extract meaningful insights and knowledge from large a
 
 If Data Science were a train, business intelligence would be the tracks that guide it. Business intelligence is very similar to Data Science, but it doesn’t involve the same tools and processes. BI is geared towards providing useful insights and decision-guiding information to organizations. It includes gathering, transforming, visualizing, and reporting data. Without these same principles, Data Science wouldn’t be very effective. Business intelligence is simply a term describing how data science is practiced in the business world.
 
-![Train](assets/img/Cartoon Train.jpg){: .mx-auto.d-block :}
+![Train]("assets/img/Cartoon Train.jpg"){: .mx-auto.d-block :}
 
 ## The Importance of BI
 
