@@ -34,7 +34,9 @@ Business intelligence also involves storing and pulling data. This can be done i
 
 ## BI Uses
 
-Business intelligence is used in almost all large-scale companies that work with data. BI helps provide useful insights on most company facets, including sales forecasting, customer segmentation, supply chain optimization, ROI improvement, business operations, and the list goes on. Anything that includes the decision-making process benefits from data insights. Below is a sample of a dashboard I made using Power BI. It displays information about productivity and dollar-amount impact.
+Business intelligence is used in almost all large-scale companies that work with data. BI helps provide useful insights on most company facets, including sales forecasting, customer segmentation, supply chain optimization, ROI improvement, business operations, and the list goes on. Anything that includes the decision-making process benefits from data insights. 
+
+Below is a sample of a dashboard I made using Power BI. It displays information about productivity and dollar-amount impact.
 
 
 <img src="../assets/img/PSWDashboard.PNG" alt="Picture" class="mx-auto d-block">
