@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Business Intelligence: An Overview for Data Scientists"
+title: "Business Intelligence -- An Overview for Data Scientists"
 subtitle: A business-oriented facet of data science.
 gh-repo: kadenf17/kadenf17.github.io
 tags: [Business Intelligence, Data Science]
