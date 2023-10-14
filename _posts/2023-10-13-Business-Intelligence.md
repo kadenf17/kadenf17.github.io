@@ -47,6 +47,6 @@ Business Intelligence stands as the foundation upon which organizations construc
 
 For more information about Business Intelligence, read these articles:
 
-https://www.ibm.com/topics/business-intelligence
+[IBM - Business Intelligence](https://www.ibm.com/topics/business-intelligence)
 
-https://powerbi.microsoft.com/en-us/what-is-business-intelligence/
+[Microsoft - What is Business Intelligence](https://powerbi.microsoft.com/en-us/what-is-business-intelligence/)
