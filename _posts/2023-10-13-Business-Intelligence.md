@@ -44,3 +44,9 @@ Below is a sample of a dashboard I made using Power BI. It displays information 
 ## Final Summary
 
 Business Intelligence stands as the foundation upon which organizations construct their data-driven futures. With their ability to give meaning to data, BI tools and methods empower companies to boost efficiency, gain a competitive edge, and drive growth. Business intelligence is the key to unlocking the hidden treasures of data, and it provides a path toward a more informed and prosperous future for any company willing to embrace it.
+
+For more information about Business Intelligence, read these articles:
+
+https://www.ibm.com/topics/business-intelligence
+
+https://powerbi.microsoft.com/en-us/what-is-business-intelligence/
