@@ -215,7 +215,7 @@ Brass Exia,70.0,MK1 YoYos,66.3,Size C (.250 x .500 x .187),"""Slim Pad"" Size 19
 ## The End of the Beginning
 
 I’m excited to explore questions with you like:
--	What are the most expensive yoyos (what about by brand)
+-	What are the most expensive yoyos? (what about by brand?)
 -	What effect does the material have on yoyo price?
 -	Do certain manufacturers use better materials in their yoyos?
 -	Does one brand of yoyo stand out above the rest?
