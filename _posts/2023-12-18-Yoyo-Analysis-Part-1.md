@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Yo Data, Yo Analysis!"
-subtitle: A Data Analysis of Yoyos! Part 1: Data Collection
+subtitle: "A Data Analysis of Yoyos! Part 1: Data Collection"
 gh-repo: kadenf17/kadenf17.github.io
 tags: [Data Collect, Web Scraping, Web Crawling, Yoyo, Data Science]
 comments: true
