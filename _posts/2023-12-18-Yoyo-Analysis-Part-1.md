@@ -9,8 +9,6 @@ thumbnail-img: "assets/img/Space_Yoyo.jpg"
 cover-img: "assets/img/Cover_Yoyo.jpg"
 ---
 
-## Introduction:
-
 I've spent the last 14 years as a dedicated yoyo enthusiast. I learned to throw as a little kid, and I have kept up with the hobby through the years. Currently, I’m serving as the president of the Yo-Yo Club at BYU. My passion extends beyond personal enjoyment; it's about sharing the thrill with others and contributing to the community.
 
 I have been performing for larger crowds for a couple of years now, and it’s always so fun to see the look on people’s faces when I do crazy tricks! After shows, I usually have a lot of people come up and want to learn how to yoyo. I have a big collection of yoyos, and I always get questions like: What’s your best yoyo? Why are there so many different models? What’s the best yoyo to start out with?
