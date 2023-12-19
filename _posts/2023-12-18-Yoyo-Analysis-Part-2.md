@@ -9,7 +9,7 @@ thumbnail-img: "assets/img/Space_Yoyo.jpg"
 cover-img: "assets/img/Cover_Yoyo.jpg"
 ---
 
-In my last blog post I explained how I created a data set describing over 500 different yoyos. In this post, I will explore questions like:
+In my [last blog post](https://kadenf17.github.io/2023-12-18-Yoyo-Analysis-Part-1/) I explained how I created a data set describing over 500 different yoyos. In this post, I will explore questions like:
 -	What are the most expensive yoyos? (what about by brand?)
 -	What effect does the material have on yoyo price?
 -	Do certain manufacturers use better materials in their yoyos?
@@ -58,7 +58,7 @@ There doesn't seem to be a correlation between Date and Price. It seems like yoy
 
 ## Discovering Relationships:
 
-I now want to see if I can discover any relationships between the different features in my data. I created a few different graphs using the Streamlit app I developed using this data (link down below). 
+I now want to see if I can discover any relationships between the different features in my data. I created a few different graphs using the [Streamlit app](https://yoyoapp.streamlit.app/) I developed using this data. 
 
 The first graph of interest compares brand, price, and where the yoyo was designed in. Take a look:
 
@@ -102,4 +102,8 @@ Q: Does one brand of yoyo stand out above the rest?
     They have the widest selection of yoyos, and the majority are under $75. 
     They also have high-end titanium yoyos as well if that's what you're looking for.
 
-Thanks for coming on this yoyo analysis journey with me! If you would like to explore the data more, consider checking out my Streamlit app.
+Thanks for coming on this yoyo analysis journey with me! If you would like to explore the data more, consider checking out my [Streamlit app](https://yoyoapp.streamlit.app/).
+
+
+Link to my GitHub repository with my code: [Yoyo_Data_Analysis_Project](https://github.com/kadenf17/STAT386_Semester_Project)
+
