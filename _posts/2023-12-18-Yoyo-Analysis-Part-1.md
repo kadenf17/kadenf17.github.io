@@ -13,7 +13,7 @@ I've spent the last 14 years as a dedicated yoyo enthusiast. I learned to throw 
 
 I have been performing for larger crowds for a couple of years now, and it’s always so fun to see the look on people’s faces when I do crazy tricks! After shows, I usually have a lot of people come up and want to learn how to yoyo. I have a big collection of yoyos, and I always get questions like: What’s your best yoyo? Why are there so many different models? What’s the best yoyo to start out with?
 
-To answer some of these questions, I initiated a data analysis project centered on yoyos. I collected information on over 500 yoyos and looked at different specs including price, material, weight, bearing type, and several other descriptors. The goal is to uncover trends and correlations that can offer insights into the diverse world of yoyos.
+To answer some of these questions, I initiated a data analysis project centered on yoyos. I collected information on over 500 yoyos and looked at different specs including price, material, weight, bearing type, and several other descriptors. The goal was to uncover trends and correlations that can offer insights into the diverse world of yoyos.
 
 This post provides a sneak peek into the initial steps of my data-driven exploration, shedding light on the groundwork laid for deeper insights into the fascinating dynamics of yoyo specs. For the final analysis see part 2.
 
@@ -23,7 +23,7 @@ When I started this project, I knew I was going to have to create my own dataset
 
 ## Creeping, Crawling, and Scraping:
 
-I first had to determine how to gather the data. I first checked to see if there was an API that I could use to get information. Unfortunately, there was no such thing. I then decided to scrape data using the Python library Beautiful Soup.
+I first had to determine how to gather the data. I checked to see if there was an API that I could use to get information. There was no such thing. I then decided to scrape data using the Python library Beautiful Soup.
 
 I was hoping there would be a list or a table with information on different yoyos, that would make things easy. Unfortunately, things were not easy. I realized that I needed to build a web crawler that would visit the product listing website for each yoyo and then scrape the information.
 
@@ -194,7 +194,7 @@ https://shop.yoyoexpert.com/collections/1a-string-trick-yo-yos/products/roppo-yo
 
 I needed to make changes. Some changes include: removing the URL, changing the price, weight, width, diameter, etc. to numbers, coercing the bearing size and response pads to categorical groups, and other changes.
 
-I used a Jupiter notebook to help me make these changes. Sometimes I had to use lots of string manipulation to help me make the data look right. All of the changes were pretty straightforward. I’m including one example below, but feel free to check out my GitHub repo with all the code for my data cleaning.
+I used a Jupyter notebook to help me make these changes. Sometimes I had to use lots of string manipulation to help me make the data look right. All of the changes were pretty straightforward. I’m including one example below, but feel free to check out my GitHub repo with all the code for my data cleaning.
 
 Changing price and weight to numerical values:
 
@@ -216,7 +216,7 @@ Brass Exia,70.0,MK1 YoYos,66.3,Size C (.250 x .500 x .187),"""Slim Pad"" Size 19
 
 I’m excited to explore questions with you like:
 -	What are the most expensive yoyos? (what about by brand?)
--	What effect does the material have on yoyo price?
+-	Does the material have an effect on yoyo price?
 -	Do certain manufacturers use better materials in their yoyos?
 -	Does one brand of yoyo stand out above the rest?
 
