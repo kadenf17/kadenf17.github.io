@@ -37,7 +37,7 @@ The most expensive yoyos are:
 
 <img src="../assets/img/Most_Expensive.png" alt="Picture" class="mx-auto d-block">
 
-Wow, $970 is really expensive for a yoyo, but notice the material is Titanium for all of these expensive yoyos. This makes me start to think that material is going to have a big impact on cost. Let’s look and see:
+Wow, $970 is really expensive for a yoyo, but notice the material is Titanium for all of these expensive yoyos. Most yoyo players do not use Titanium yoyos. These are very high end and are not commonly sold. In fact, these yoyos are pretty exclusing and usually sold out. This Titanium trend makes me start to think that material is going to have a big impact on cost. Let’s look and see:
 
 <img src="../assets/img/Hist_Prices_Material.png" alt="Picture" class="mx-auto d-block">
 <img src="../assets/img/Mat_Avg_Prices.png" alt="Picture" class="mx-auto d-block">
