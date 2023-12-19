@@ -11,7 +11,7 @@ cover-img: "assets/img/Cover_Yoyo.jpg"
 
 In my [last blog post](https://kadenf17.github.io/2023-12-18-Yoyo-Analysis-Part-1/) I explained how I created a data set describing over 500 different yoyos. In this post, I will explore questions like:
 -	What are the most expensive yoyos? (what about by brand?)
--	What effect does the material have on yoyo price?
+-	Does the material have an effect on yoyo price?
 -	Do certain manufacturers use better materials in their yoyos?
 -	Does one brand of yoyo stand out above the rest?
 
@@ -87,7 +87,7 @@ Q: What are the most expensive yoyos? (what about by brand?)
 
     A: Titanium and Magnesium yoyos, regardless of brand.
 
-Q: What effect does the material have on yoyo price?
+Q: Does the material have an effect on yoyo price?
 
     A: Material is a big factor in determining yoyo price
 
