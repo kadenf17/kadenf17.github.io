@@ -221,3 +221,9 @@ I’m excited to explore questions with you like:
 -	Does one brand of yoyo stand out above the rest?
 
 Check out my next blog post to see these questions answered! Thanks for coming on this data analysis adventure with me!
+
+[Yo Data, Yo Analysis! A Data Analysis of Yoyos! Part 2: Exploratory Data Analysis](https://kadenf17.github.io/2023-12-18-Yoyo-Analysis-Part-2/)
+
+I finished this project by creating a Streamlit dashboard which can be found here:
+
+[Streamlit Yoyo App](https://yoyoapp.streamlit.app/)
